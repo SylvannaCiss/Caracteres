@@ -4,7 +4,7 @@ public class Caracteres {
         char simbolo = '$';
         char numeroChar = '5';
 
-        System.out.pritln("letra = " + letra);
+        System.out.println("letra = " + letra);
         System.out.println("simbolo = " + simbolo);
         System.out.println("numeroChar = " + numeroChar);
         
